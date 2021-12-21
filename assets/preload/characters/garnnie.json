@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Garnnie Idle Dance"
+		},
+		{
+			"offsets": [
+				250,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Garnnie Sing Note Let"
+		},
+		{
+			"offsets": [
+				10,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Garnnie Simg Note Right"
+		},
+		{
+			"offsets": [
+				20,
+				-133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Garnie Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				14,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Garnnie Sing note Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Garnnie_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ga",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		5,
+		95
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
